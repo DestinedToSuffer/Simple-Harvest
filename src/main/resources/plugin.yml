@@ -1,6 +1,6 @@
 name: Simple_Harvest
 version: '${project.version}'
-main: co.vangar.simple_harvest.Simple_harvest
+main: co.vangar.simple_harvest.SimpleHarvest
 api-version: 1.19
 authors: [ Destined ]
 description: A simple harvest and auto-plant plugin
